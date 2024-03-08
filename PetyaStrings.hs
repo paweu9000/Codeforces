@@ -1,4 +1,8 @@
 module Main where
+
+-- PROBLEM
+-- https://codeforces.com/problemset/problem/112/A
+
 import Data.Char (toLower, ord)
 
 main :: IO ()

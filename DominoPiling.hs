@@ -1,5 +1,8 @@
 module Main where
 
+-- PROBLEM
+-- https://codeforces.com/problemset/problem/50/A
+
 main :: IO ()
 main = do
     input <- getLine :: IO String

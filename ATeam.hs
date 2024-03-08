@@ -1,5 +1,8 @@
 module Main where
 
+-- PROBLEM
+-- https://codeforces.com/problemset/problem/231/A
+
 main :: IO ()
 main = do
     problems <- readLn :: IO Int
