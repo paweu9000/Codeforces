@@ -1,4 +1,8 @@
 module Main where
+
+-- PROBLEM
+-- https://codeforces.com/problemset/problem/263/A
+
 import Data.List (elemIndex)
 
 main :: IO ()
